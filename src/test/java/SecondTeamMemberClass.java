@@ -4,7 +4,7 @@ public class SecondTeamMemberClass {
 
 
     @Test
-    public void fileUploadTest() {
-        //blabla
+    public void fileUpload() {
+        //team lead changed this line
     }
 }
